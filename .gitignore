@@ -1,0 +1,12 @@
+# Derleme ciktilari
+out/
+*.class
+
+# Ders materyalleri (telif hakki nedeniyle yayinlanmaz)
+pdfler/
+
+# IDE / editor
+.idea/
+.vscode/
+*.iml
+.DS_Store
